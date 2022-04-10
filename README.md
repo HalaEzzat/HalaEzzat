@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **All about Observability**
 
-- 💬 Ask me about **AppDynamics , New Relic , DataDog , Dynatrace , Java , Python , Flask , etc **
+- 💬 Ask me about **AppDynamics , New Relic , DataDog , Dynatrace , Java , Python , Flask , etc**
 
 - 📫 How to reach me **hala.elhamahmy@gmail.com**
 
