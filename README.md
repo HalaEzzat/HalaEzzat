@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hala</h1>
-<h3 align="center">A Professional Services Delivery Engineer II</h3>
+<h3 align="center">APM / DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **All about Observability**
+- 🌱 I’m currently learning **All about Observability & Cloud / DevOps**
 
-- 💬 Ask me about **AppDynamics , New Relic , DataDog , Dynatrace , Java , Python , Flask , etc**
+- 💬 Ask me about **AppDynamics , New Relic , DataDog , Dynatrace , Terraform, Jenkins , AWS  , etc**
 
 - 📫 How to reach me **hala.elhamahmy@gmail.com**
 
