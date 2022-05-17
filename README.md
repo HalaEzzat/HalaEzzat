@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hala</h1>
 <h3 align="center">APM / DevOps Engineer</h3>
 
-- 🌱 I’m currently learning **All about Observability & Cloud / DevOps**
+- 🌱 I’m currently working on **<a href="https://github.com/HalaEzzat/observability-engineering-project-roar">observability engineering project roar</a>**
 
 - 💬 Ask me about **AppDynamics , New Relic , DataDog , Dynatrace , Terraform, Jenkins , AWS  , etc**
 
