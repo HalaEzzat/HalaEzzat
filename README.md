@@ -4,8 +4,6 @@
 
 - 💬 Ask me about **Terraform, Jenkins , AWS  , K8S , Github Actions , Helm , etc**
 
-- 📫 How to reach me **hala.elhamahmy@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/hala-elhamahmy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hala-elhamahmy/" height="30" width="40" /></a>
